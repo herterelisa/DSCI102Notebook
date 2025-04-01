@@ -1,2 +1,2 @@
 # DSCI102Notebook
-Course work from DSCI 102 
+This contains all my work, including lab exercises, homework assignments, and projects.
